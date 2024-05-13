@@ -1,0 +1,33 @@
+img.x1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+img.x2 {
+    position: relative;
+    left: 900;
+    top: -10;
+    z-index: 1;
+}
+img.x3 {
+    position: relative;
+    left: 400;
+    top: -100;
+    z-index: 1;
+}
+img.x4 {
+    position: relative;
+    left: 150;
+    top: -60;
+    z-index: -1;
+}
+.teks {
+    position: relative;
+    top: -300px;
+    left: 0px;
+    z-index: 2;
+    margin-top: -90px;
+    margin-right: 500px;
+    margin-left: 20px;
+}

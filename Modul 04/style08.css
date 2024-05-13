@@ -1,0 +1,76 @@
+
+a:link {
+    color: rgb(59, 213, 224)
+}
+
+a.one:visited {
+    color: #f86a60
+}
+
+a.one:hover {
+    color: #90d5fd
+}
+
+a.two:visited {
+    color: #fcb36f
+}
+
+a.two:hover {
+    font-size: 500%
+}
+
+a.three:visited {
+    color: #f9f50b
+}
+
+a.three:hover {
+    color: #ffffff;
+    background: #ffffff
+}
+
+a.four:visited {
+    color: #7aff77
+}
+
+a.four:hover {
+    color: #f86a60;
+    background: #bcf9ee;
+}
+
+a.five:visited {
+    color: #91c8fb;
+    text-decoration: line-through
+}
+
+a.five:hover {
+    font-family: serif;
+    font-size: 25px;
+    color: #f86a60;
+}
+
+a.six:visited {
+    color: #3282cd;
+}
+
+a.six:hover {
+    font-style: italic;
+    font-size: small;
+    text-decoration: line-through
+    
+}
+
+a.seven:visited {
+    color: #f6a0fa;
+    text-decoration: line-through
+}
+
+a.seven:hover {
+    background-color: aqua;
+    font-weight: bold;
+}
+
+
+
+
+
+

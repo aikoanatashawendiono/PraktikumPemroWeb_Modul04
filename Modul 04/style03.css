@@ -1,0 +1,21 @@
+p.borderous {
+    background-color: aliceblue;
+    border: 3px dashed #738cb9;
+}
+p.borderborder {
+    background-color: rgb(253, 232, 232);
+    margin:10px auto;
+    padding: 50px;
+    width: 300px;
+    height: 300px;
+    border: 5px solid darksalmon;
+}
+p.borderlagi {
+    background-color: rgb(212, 255, 229);
+    margin:3px auto;
+    padding: 20px;
+    width: 200px;
+    height: 60px;
+    border-left: 5px dotted wheat;
+    border-right: 10px double burlywood;
+}

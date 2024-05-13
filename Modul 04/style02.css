@@ -1,0 +1,18 @@
+.judul {
+    font-family: "tahoma", tahoma;
+}
+.tebal {
+    font-style: italic;
+}
+.latin {
+    font-family: "Monotype Corsiva", cursive;
+}
+.mini {
+    font-size: xx-small;
+}
+.jumbo {
+    font-size: larger;
+}
+.combi {
+    font: italic small-caps 900 30px tahoma;
+}

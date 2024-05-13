@@ -1,0 +1,24 @@
+ul {
+    list-style: square inside url("gambar.gif");
+    background-color: pink;
+}
+
+.tabel1 {
+    list-style-type: none;
+  }
+  
+  .tabel1 li {
+    padding-left: 600px;
+    background: url("patrick.gif") no-repeat left center;
+    background-size: 500px;
+    margin-bottom: 10px;
+  }
+  
+  .tabel1 li:nth-child(2) {
+    background-image: url("patrick2.gif"); 
+  }
+  
+  .tabel1 li:nth-child(3) {
+    background-image: url("gambar.gif"); 
+  }
+  
